@@ -1,2 +1,2 @@
 # creating_instagram_bot
-/Users/rammurthys/Documents/understand_instabot
+Simple bot to comment / like Instagram feed with given credentials
